@@ -1,8 +1,9 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import Geral from './Componentes/Geral';
 import Home from './Pages/Home';
 import Cores from './Pages/Cores/Cores';
-import Geral from './Componentes/Geral'
+import PokeAPI from './Pages/PokeAPI/PokeAPI';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
 
   <Route path="/" element={<Home />} />
   <Route path="/cores" element={<Cores />} />
+  <Route path="/pokeApi" element={<PokeAPI />} />
   
 
   </Route>

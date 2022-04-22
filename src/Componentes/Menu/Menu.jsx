@@ -14,6 +14,7 @@ export default function Menu() {
             <nav id="menu">
                 <Link id="link" to="/">Inicio</Link>  {"  "}
                 <Link id="link" to="cores">Cores</Link>  {"  "}
+                <Link id="link" to="pokeApi">PokeAPI</Link>  {"  "}
             
             </nav>
 
