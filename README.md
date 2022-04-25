@@ -4,7 +4,7 @@
 
 #### Pagina Cores
 
-###### Pagina para "brincar um pouco com coceitos de useState - Hooks
+###### Pagina para "brincar" um pouco com coceitos de useState - Hooks
 
 
 
